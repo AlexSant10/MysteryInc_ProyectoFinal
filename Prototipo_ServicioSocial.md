@@ -16,4 +16,5 @@ Para cambiar la contraseña el usuario usará esta pantalla.
 
 Los usuarios podrán ver su progreso en su Servicio Social
 
-<img width="584" alt="Screenshot 2023-05-05 at 7 46 45 AM" src="https://user-images.githubusercontent.com/123345341/236475545-0af4215f-cc17-4981-b9f1-d46b90679598.png">
+
+<img width="667" alt="Screenshot 2023-05-05 at 7 48 11 AM" src="https://user-images.githubusercontent.com/123345341/236475898-aabe4761-6523-4ff3-a1f6-92894575adb8.png">
